@@ -8,7 +8,7 @@ function checkLogin(event) {
      
       if (username === 'user' && password === '1234') {
     
-        window.location.href = 'Home.html'; 
+        window.location.href = Home.html; 
       } else {
         alert('Invalid username or password. Please try again.');
       }

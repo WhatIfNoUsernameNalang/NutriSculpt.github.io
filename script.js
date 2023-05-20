@@ -8,7 +8,7 @@ function checkLogin(event) {
      
       if (username === 'user' && password === '1234') {
     
-        window.location.href = 'https://github.com/WhatIfNoUsernameNalang/NutriSculpt.github.io/blob/main/Home.html'; 
+        window.location.href = 'https://github.com/WhatIfNoUsernameNalang/NutriSculpt.github.io/blob/9e53d698d397bf3a8f2e18f1974ba35795a27286/Home.html'; 
       } else {
         alert('Invalid username or password. Please try again.');
       }

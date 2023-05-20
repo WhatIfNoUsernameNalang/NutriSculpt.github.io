@@ -8,7 +8,7 @@ function checkLogin(event) {
      
       if (username === 'user' && password === '1234') {
     
-        window.location.href = 'file:///C:/Users/erldy/OneDrive/Documents/CS/Dy%20CS%20Website/Home.html'; 
+        window.location.href = 'Home.html'; 
       } else {
         alert('Invalid username or password. Please try again.');
       }
